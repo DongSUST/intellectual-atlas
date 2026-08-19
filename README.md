@@ -9,6 +9,16 @@
 
 ---
 
+## 在线体验
+
+**https://dongSUST.github.io/intellectual-atlas/**
+
+托管于 GitHub Pages（gh-pages 分支）。更新网站只需一条命令：
+
+```bash
+npm run deploy   # 本地构建 dist/ 并发布到 gh-pages 分支，约 1 分钟后生效
+```
+
 ## 运行
 
 ```bash
